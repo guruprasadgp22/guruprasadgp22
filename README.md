@@ -52,15 +52,33 @@
 
 </div>
 
-# 📊 GitHub Stats:
+# 📈 Commit & Contribution Stats:
 
 <div align="center">
-  
+
+## 📊 Total GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=guruprasadgp22&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
 
+## 🔥 Contribution Streak
 ![](https://streak-stats.demolab.com/?user=guruprasadgp22&theme=rose_pine&hide_border=false)
 
+## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=guruprasadgp22&theme=rose-pine&hide_border=true)
+
+## 💻 Most Used Languages
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=guruprasadgp22&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+> 📌 **Note:** These stats update automatically whenever you push code to GitHub!
+
+## 🎯 Total Commits Overview
+
+<div align="center">
+
+![Total Commits Badge](https://img.shields.io/badge/Total%20Commits-Auto%20Update-blue?style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/guruprasadgp22?style=for-the-badge&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/guruprasadgp22?style=for-the-badge&logo=github)
 
 </div>
 
