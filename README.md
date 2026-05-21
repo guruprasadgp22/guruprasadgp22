@@ -23,7 +23,7 @@
 
 <div align="center">
   
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZYaDjspsJ/giphy.gif" width="500" height="300" alt="Coding"/>
+<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=300&fit=crop" width="500" height="300" alt="Coding Person" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);"/>
 
 | 🎯 | 💚 | 🔥 |
 |:---:|:---:|:---:|
