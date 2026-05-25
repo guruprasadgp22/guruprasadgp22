@@ -84,8 +84,6 @@ Bachelor of Engineering in Computer Science and Engineering
 
 🏫 Mangalore Institute of Technology and Engineering
 
-📊 CGPA: 7.26/10
-
 📅 2020 – 2024
 
 ---
