@@ -5,76 +5,100 @@ Software Developer | Full Stack Developer | Java Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Developer;Spring+Boot+Developer;Java+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Spring+Boot+Developer;Java+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=GuruprasadGP22&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=GuruprasadGP22&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- Upload your generated profile/banner image inside assets folder -->
 
-## 👨‍💻 Who am I?
+<p align="center">
+<img src="./assets/profile-banner.png" width="100%">
+</p>
 
-I am a Computer Science and Engineering graduate with hands-on industry experience at Sony India Software Centre as a Software Developer Intern. I enjoy building scalable applications and developing efficient backend systems.
+---
 
-I am passionate about creating production-ready applications, solving real-world problems, and continuously learning modern technologies in software development, cloud computing, and AI-integrated solutions.
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 👨‍💻 About Me
+
+💼 Software Developer Intern at Sony India Software Centre Pvt Ltd
+
+🎓 Computer Science and Engineering Graduate
+
+🌱 Currently learning Spring AI, Cloud Technologies, and Scalable System Design
+
+💻 Passionate about Full Stack Development and Backend Engineering
+
+🚀 Interested in building scalable applications and REST APIs
+
+📍 Bengaluru, Karnataka, India
 
 ---
 
 ## 🚀 Currently Working On
 
-✔ Building scalable full-stack applications
+✔ Building Full Stack Applications
 
-✔ Developing REST APIs using Spring Boot
+✔ Spring Boot REST APIs
 
-✔ Improving backend architecture skills
+✔ Backend Architecture
 
-✔ Learning cloud-native technologies
+✔ Database Optimization
 
-✔ Exploring AI and Spring AI
+✔ Learning Cloud Native Technologies
 
-✔ Strengthening Data Structures & Algorithms
+✔ Exploring AI Integration
+
+✔ Improving DSA Skills
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠 Tech Stack
 
 ### Programming Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css,sql"/>
 </p>
 
 ### Frameworks & Libraries
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=spring,react,nodejs"/>
 </p>
 
-### Database & Tools
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,docker,kubernetes,vscode,idea"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,idea,eclipse"/>
 </p>
 
 ---
 
 ## 💼 Experience
 
-### Software Developer Intern | Sony India Software Centre
+### Software Developer Intern | Sony India Software Centre Pvt Ltd
 
 📍 Bengaluru, Karnataka  
-📅 June 2025 – Present
+📅 June 2025 – Present  
 
-- Designed and implemented Spring Boot POCs
-- Built scalable REST APIs
-- Designed PostgreSQL schemas
-- Developed CRUD operations
-- Optimized backend performance
-- Identified and documented bottlenecks
+- Designed and implemented Spring Boot POCs  
+- Built scalable REST APIs  
+- Designed PostgreSQL schemas  
+- Developed CRUD operations  
+- Optimized backend performance  
+- Identified and documented bottlenecks  
 
 ---
 
@@ -82,7 +106,9 @@ I am passionate about creating production-ready applications, solving real-world
 
 Bachelor of Engineering in Computer Science and Engineering
 
-🏫 Mangalore Institute of Technology and Engineering
+🏫 Mangalore Institute of Technology and Engineering (MITE)
+
+📊 CGPA: 7.26/10
 
 📅 2020 – 2024
 
@@ -90,7 +116,7 @@ Bachelor of Engineering in Computer Science and Engineering
 
 ## 📜 Certifications
 
-🏅 Full Stack Development in Java and Python – KodNest Technologies
+🏅 Full Stack Development in Java and Python — KodNest Technologies
 
 🏅 Java Spring Framework, Spring Boot & Spring AI
 
@@ -100,7 +126,12 @@ Bachelor of Engineering in Computer Science and Engineering
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
+<a href="mailto:guruprasad6200@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 <a href="https://www.linkedin.com/in/guruprasad-g-p-74488a285">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -110,37 +141,65 @@ Bachelor of Engineering in Computer Science and Engineering
 </a>
 
 <a href="https://guruprasad22.netlify.app/">
-🌐 Portfolio
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
-</p>
 
-📧 guruprasad6200@gmail.com
-
-📍 Bengaluru, Karnataka
-
----
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GuruprasadGP22&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruprasadGP22&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuruprasadGP22&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GuruprasadGP22&theme=algolia"/>
 </p>
 
 ---
+
+<h2 align="center">⚡ GitHub Statistics</h2>
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=GuruprasadGP22&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruprasadGP22&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuruprasadGP22&theme=tokyonight"/>
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuruprasadGP22&theme=react-dark"/>
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GuruprasadGP22&theme=algolia&row=1&column=7"/>
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
+---
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuruprasadGP22&theme=github_dark"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
 <h3 align="center">
-⭐ Passionate about coding and building impactful software
+
+🚀 Always Learning • 💻 Always Building • ⭐ Always Improving
+
 </h3>
