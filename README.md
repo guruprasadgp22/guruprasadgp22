@@ -8,10 +8,6 @@ Software Developer | Full Stack Developer | Java Enthusiast
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Spring+Boot+Developer;Java+Enthusiast;Always+Learning+New+Things" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=GuruprasadGP22&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
 ---
 
 <!-- Upload your generated profile/banner image inside assets folder -->
