@@ -144,44 +144,6 @@ Bachelor of Engineering in Computer Science and Engineering
 
 ---
 
-<h2 align="center">⚡ GitHub Statistics</h2>
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=GuruprasadGP22&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruprasadGP22&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuruprasadGP22&theme=tokyonight"/>
-</p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuruprasadGP22&theme=react-dark"/>
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GuruprasadGP22&theme=algolia&row=1&column=7"/>
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuruprasadGP22&theme=github_dark"/>
 </p>
