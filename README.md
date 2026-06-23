@@ -199,3 +199,31 @@ Bachelor of Engineering in Computer Science and Engineering
 🚀 Always Learning • 💻 Always Building • ⭐ Always Improving
 
 </h3>
+
+# 📊 Daily Commit Stats — Last 30 Days
+
+<!-- COMMIT_STATS_START -->
+<!-- This section is auto-updated daily by GitHub Actions -->
+<!-- COMMIT_STATS_END -->
+
+> ⚡ Auto-updated every day via GitHub Actions
+
+---
+
+## 🔥 GitHub Activity (Live Widgets)
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuruprasadGP22&theme=tokyonight&hide_border=false" />
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuruprasadGP22&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+<!-- GitHub Stats + Top Languages -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GuruprasadGP22&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruprasadGP22&layout=compact&theme=tokyonight" />
+</p>
