@@ -141,21 +141,6 @@ Bachelor of Engineering in Computer Science and Engineering
 </a>
 
 </p>
-
----
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuruprasadGP22&theme=github_dark"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
 <h3 align="center">
 
 🚀 Always Learning • 💻 Always Building • ⭐ Always Improving
@@ -233,3 +218,17 @@ Bachelor of Engineering in Computer Science and Engineering
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GuruprasadGP22&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruprasadGP22&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuruprasadGP22&theme=github_dark"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
