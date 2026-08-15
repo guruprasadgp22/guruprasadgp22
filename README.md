@@ -4,18 +4,6 @@
 Software Developer | Full Stack Developer | Java Enthusiast
 </h3>
 
-<p align="center">
-<img src="https://images.unsplash.com/photo-1508138221679-760a23a2285b?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
-</p>
-
----
-
-<!-- Upload your generated profile/banner image inside assets folder -->
-
-<p align="center">
-<img src="https://images.unsplash.com/photo-1508138221679-760a23a2285b?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%">
-</p>
-
 ---
 
 <img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
