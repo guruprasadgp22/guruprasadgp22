@@ -22,7 +22,7 @@ Software Developer | Full Stack Developer | Java Enthusiast
 
 ## 👨‍💻 About Me
 
-💼 Software Developer Intern at Sony India Software Centre Pvt Ltd
+💼 Ex Software Developer Intern at Sony India Software Centre Pvt Ltd
 
 🎓 Computer Science and Engineering Graduate
 
@@ -87,7 +87,7 @@ Software Developer | Full Stack Developer | Java Enthusiast
 ### Software Developer Intern | Sony India Software Centre Pvt Ltd
 
 📍 Bengaluru, Karnataka  
-📅 June 2025 – Present  
+📅 June 2025 – June 2026  
 
 - Designed and implemented Spring Boot POCs  
 - Built scalable REST APIs  
