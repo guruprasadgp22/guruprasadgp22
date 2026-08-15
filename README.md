@@ -13,7 +13,7 @@ Software Developer | Full Stack Developer | Java Enthusiast
 <!-- Upload your generated profile/banner image inside assets folder -->
 
 <p align="center">
-<img src="./assets/profile-banner.png" width="100%">
+<img src="https://www.canva.com/photos/MADGyBw-tjg-pair-of-white-dice-on-top-of-mirror/?utm_source=pixabay&utm_medium=affiliate&utm_campaign=sponsored_image&utm_content=list_topbanner_media&utm_term=random+object+random+dice" width="100%">
 </p>
 
 ---
