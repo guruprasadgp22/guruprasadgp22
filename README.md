@@ -5,7 +5,7 @@ Software Developer | Full Stack Developer | Java Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Spring+Boot+Developer;Java+Enthusiast;Always+Learning+New+Things" />
+<img src="https://images.unsplash.com/photo-1508138221679-760a23a2285b?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 </p>
 
 ---
