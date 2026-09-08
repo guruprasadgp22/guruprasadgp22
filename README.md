@@ -140,18 +140,17 @@ Bachelor of Engineering in Computer Science and Engineering
 <!-- COMMIT_STATS_START -->
 ## 📊 Daily Commit Stats — Last 30 Days
 
-> 🕒 Last updated: `2026-09-07 01:22 UTC`
+> 🕒 Last updated: `2026-09-08 01:31 UTC`
 
 ```
-  Total commits   : 210
-  Active days     : 27 / 30
-  Avg per day     : 7.8
+  Total commits   : 213
+  Active days     : 28 / 30
+  Avg per day     : 7.6
   Best day        : 2026-08-26  (24 commits)
 ```
 
 | Date       | Day | Commits | Bar                      |
 |------------|-----|---------|--------------------------|
-| 2026-08-09 | Sun |       · | `░░░░░░░░░░░░░░░░░░░░` |
 | 2026-08-10 | Mon |      13 | `███████████░░░░░░░░░` |
 | 2026-08-11 | Tue |      10 | `████████░░░░░░░░░░░░` |
 | 2026-08-12 | Wed |       4 | `███░░░░░░░░░░░░░░░░░` |
@@ -179,8 +178,9 @@ Bachelor of Engineering in Computer Science and Engineering
 | 2026-09-03 | Thu |       8 | `███████░░░░░░░░░░░░░` |
 | 2026-09-04 | Fri |      11 | `█████████░░░░░░░░░░░` |
 | 2026-09-05 | Sat |       4 | `███░░░░░░░░░░░░░░░░░` |
-| 2026-09-06 | Sun |      12 | `██████████░░░░░░░░░░` |
-| 2026-09-07 | Mon |       · | `░░░░░░░░░░░░░░░░░░░░` |
+| 2026-09-06 | Sun |      13 | `███████████░░░░░░░░░` |
+| 2026-09-07 | Mon |       2 | `██░░░░░░░░░░░░░░░░░░` |
+| 2026-09-08 | Tue |       · | `░░░░░░░░░░░░░░░░░░░░` |
 
 > ⚡ Auto-updated every day via GitHub Actions
 <!-- COMMIT_STATS_END -->
