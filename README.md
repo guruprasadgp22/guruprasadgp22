@@ -1,100 +1,165 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" width="100%" alt="Guruprasad, Software Developer and Full Stack Developer from Bengaluru. Former Software Developer Intern at Sony India Software Centre, focused on Java, Spring Boot, REST APIs and PostgreSQL.">
-</picture>
-
 <p align="center">
-  <a href="https://guruprasad22.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/guruprasad-g-p-74488a285"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:guruprasad6200@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=GuruprasadGP22&style=for-the-badge&color=blueviolet&label=Profile+views" alt="Profile views"/>
+  <img src="./dark.svg" width="100%" alt="Guruprasad, Full Stack Developer from Bengaluru. Software Developer Apprentice at Sony India Software Centre (Jun 2025 to Jun 2026). Builds with Java, Spring Boot, React and PostgreSQL.">
 </p>
 
----
+<p align="center">
+  <a href="https://guruprasadgp.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Enter_the_crypt-F97316?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0B0612" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/guruprasadgp22/"><img src="https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0612" alt="LinkedIn"/></a>
+  <a href="mailto:guruprasad6200@gmail.com"><img src="https://img.shields.io/badge/Email-Send_a_raven-84CC16?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0612" alt="Email"/></a>
+  <a href="https://guruprasadgp.netlify.app/Guruprasad_P_updated.pdf"><img src="https://img.shields.io/badge/Resume-Unseal-F97316?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0B0612" alt="Resume"/></a>
+  <img src="https://komarev.com/ghpvc/?username=GuruprasadGP22&style=for-the-badge&color=7C3AED&label=Souls+visited" alt="Profile views"/>
+</p>
 
-## 👨‍💻 About Me
-
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 💼 Former **Software Developer Intern** at **Sony India Software Centre Pvt Ltd**
-- 🎓 **B.E. in Computer Science and Engineering** graduate
-- 💻 Passionate about **Full Stack Development** and **Backend Engineering**
-- 🚀 Interested in building scalable applications and REST APIs
-- 🌱 Currently learning **Spring AI**, **Cloud Technologies** and **Scalable System Design**
-- 📍 Bengaluru, Karnataka, India
-
-<br clear="right"/>
-
-## 🚀 Currently Working On
-
-| Building | Learning |
-|---|---|
-| Full stack applications | Cloud native technologies |
-| Spring Boot REST APIs | AI integration (Spring AI) |
-| Backend architecture | Scalable system design |
-| Database optimization | Data structures & algorithms |
+<p align="center"><b>🎃 Available immediately · Bengaluru / Remote · SDE-1 · Java Backend 🎃</b></p>
 
 ---
 
-## 🛠 Tech Stack
+## 🦇 About Me
+
+I'm Guruprasad, a software developer with a Bachelor's degree in Computer Science and Engineering. I enjoy designing and building **scalable, secure and user-focused** applications.
+
+At **Sony India Software Centre** I worked in **SAP Identity and Access Management**: user lifecycle, role-based access control, authentication, authorization and security compliance. Before that I built full-stack apps with **Java, Python, Spring Boot, Hibernate and React.js** at **KodNest**, and a **Car Rental Management System** at **DLithe**.
+
+I'm a quick learner who likes hard problems, and I'm looking for roles as a **Software Engineer, Java, Backend, Full Stack or Python Developer**.
+
+## 🕯️ What I Do
 
 | | |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css" alt="Languages"/> &nbsp;+ SQL |
-| **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=spring,react,nodejs" alt="Frameworks"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"/> |
-| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,idea,eclipse" alt="Tools"/> |
+| ⚙️ **Backend & APIs** | Spring Boot REST APIs and microservices with Spring Security, JWT, JPA and PostgreSQL |
+| 🖥️ **Frontend** | Responsive React.js interfaces with Vite, Material UI and Tailwind CSS |
+| 🧠 **AI & ML** | Computer vision with PyTorch and YOLOv5, served through ONNX Runtime |
+| 🐳 **DevOps & tooling** | Docker images, GitHub Actions for builds and scheduled jobs, Git, Maven and Linux daily |
 
 ---
 
-## 💼 Experience
+## 🧪 Tech Stack
 
-### Software Developer Intern · Sony India Software Centre Pvt Ltd
-📍 Bengaluru, Karnataka &nbsp;|&nbsp; 📅 June 2025 – June 2026
-
-- Designed and implemented **Spring Boot** proofs of concept
-- Built scalable **REST APIs** and developed CRUD operations
-- Designed **PostgreSQL** schemas
-- Optimized backend performance, and identified and documented bottlenecks
-
----
-
-## 🧩 Featured: DSA Practice
-
-| Repository | What's inside |
+| | |
 |---|---|
-| [**NeetCode_Practise**](https://github.com/GuruprasadGP22/NeetCode_Practise) | 212 NeetCode problems solved in Java, auto-synced on every submission |
-| [**GeekforGeeks**](https://github.com/GuruprasadGP22/GeekforGeeks) | 287 GeeksforGeeks problems solved in Java (64 easy, 187 medium, 38 hard) |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp&theme=dark" alt="Languages"/> &nbsp;+ SQL |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,hibernate,flask,django&theme=dark" alt="Backend"/> &nbsp;Spring Security · JWT · Spring Cloud Gateway · Eureka · Microservices |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui,html,css&theme=dark" alt="Frontend"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" alt="Databases"/> &nbsp;+ Oracle SQL |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,githubactions,linux&theme=dark" alt="DevOps"/> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="AI and ML"/> &nbsp;YOLOv5 · ONNX Runtime |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,vscode&theme=dark" alt="Tools"/> &nbsp;Swagger / OpenAPI |
 
 ---
 
-## 🎓 Education
+## ⚰️ Experience
 
-**Bachelor of Engineering, Computer Science and Engineering**
-Mangalore Institute of Technology and Engineering (MITE) &nbsp;|&nbsp; 📅 2020 – 2024 &nbsp;|&nbsp; 📊 CGPA 7.26/10
+### Software Developer Apprentice · Sony India Software Centre Pvt. Ltd.
+📍 Bengaluru, Karnataka &nbsp;|&nbsp; 📅 Jun 2025 – Jun 2026
 
-## 📜 Certifications
+- Administered **SAP Identity and Access Management** across the full user lifecycle: account creation, access provisioning, role changes, password resets and deactivation
+- Managed **role-based access control (RBAC)**: assigning, modifying and auditing roles under least privilege and segregation of duties
+- Maintained authentication and authorization configurations, ran access reviews, resolved authorization issues and supported audits
+- Handled access requests through enterprise ticketing, monitoring SLAs and documenting provisioning work
 
-- 🏅 Full Stack Development in Java and Python · KodNest Technologies
-- 🏅 Java Spring Framework, Spring Boot & Spring AI
-- 🏅 Artificial Intelligence for Beginners: Python and AI Basics
+### Full Stack Development Intern · KodNest Technologies
+📍 Bengaluru, Karnataka &nbsp;|&nbsp; 📅 Oct 2024 – Jun 2025
+
+- Built backend applications with **Spring Boot, Hibernate and Django**: REST APIs, CRUD and layered architecture
+- Designed responsive **React.js** interfaces integrated with backend APIs; worked with MySQL, Oracle SQL and MongoDB
+- Developed **QuickNote**, a **To-Do List** and a full-stack **Currency Converter**
+
+### Web Development Intern · DLithe Consultancy Services Pvt. Ltd.
+📍 Moodabidri, Karnataka &nbsp;|&nbsp; 📅 Aug 2023 – Sep 2023
+
+- Built a **Car Rental Management System** (React.js, PHP, SQL) where users browse vehicles, register, book rentals and manage reservations
 
 ---
 
-## 🔥 GitHub Activity
+## 🎃 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 💼 [Job Board](https://github.com/guruprasadgp22/Job-Board)
+Two-sided job platform that matches jobs to your resume. Pulls jobs from 6 sources every 6 hours, ranks them by match %, and lets employers review applicants ranked by fit.
+
+`Java 21` `Spring Boot 3.5` `Spring Security` `JWT` `React 18` `PostgreSQL` `Docker`
+
+[Live demo](https://job-board-6ev5.onrender.com/) · [API docs](https://job-board-6ev5.onrender.com/swagger-ui.html)
+
+</td>
+<td width="33%" valign="top">
+
+### ✈️ [FlightWise AI](https://github.com/guruprasadgp22/flightwise-ai)
+Flight booking platform built as 9 Spring Boot microservices behind one gateway. Plain-English flight search, seat holds during payment, PDF e-tickets, and an admin console with revenue and occupancy dashboards.
+
+`Java 21` `Spring Cloud Gateway` `Eureka` `JWT` `PostgreSQL` `React` `Docker`
+
+</td>
+<td width="33%" valign="top">
+
+### 🦷 [Dentes](https://github.com/guruprasadgp22/Dental-Condition-Detection-System)
+AI dental condition detection. A YOLOv5 model screens panoramic X-rays for 4 conditions in under 2 seconds and produces a printable findings report.
+
+`Python` `YOLOv5` `PyTorch` `ONNX Runtime` `OpenCV` `Flask` `Docker`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🕸️ Training projects</b></summary>
+
+- [**QuickNote**](https://github.com/guruprasadgp22/Quick-Note) · note-taking app with CRUD and persistent storage · [live](https://quick-note-phi.vercel.app/)
+- [**Currency Converter**](https://github.com/guruprasadgp22/Currency-Converter) · full-stack converter with REST API integration
+- **To-Do List** · task manager with CRUD and REST APIs
+- **Car Rental Management System** · DLithe internship project
+- **Full-Stack E-Commerce Application** · authentication, REST API and CRUD
+
+</details>
+
+---
+
+## 🔮 Problem Solving
+
+**1,700+ problems solved across 10 platforms** · [live numbers on my portfolio](https://guruprasadgp.netlify.app/#coding)
+
+| Platform | Solved | My solutions repo |
+|---|---|---|
+| LeetCode | 554+ | |
+| GeeksforGeeks | 714+ | [GeekforGeeks](https://github.com/guruprasadgp22/GeekforGeeks) |
+| NeetCode | 258+ | [NeetCode_Practise](https://github.com/guruprasadgp22/NeetCode_Practise) |
+| CodeChef | 112+ | |
+| HackerRank | 50+ | |
+
+<sub>Counts as of November 2026.</sub>
+
+---
+
+## 📜 Education & Certifications
+
+**B.E. in Computer Science and Engineering** · Mangalore Institute of Technology and Engineering (MITE) · Dec 2020 – May 2024 · CGPA 7.26
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Java Spring Framework, Spring Boot & Spring AI (Generative AI) | Udemy | May 2026 |
+| Python For Beginners Course In-Depth | Udemy | Apr 2026 |
+| Artificial Intelligence for Beginners: Python and AI Basics | Udemy | Dec 2025 |
+| Full Stack Development in Java and Python | KodNest Technologies | Jun 2025 |
+| SQL (Intermediate), SQL (Basic), Java (Basic) | HackerRank | Dec 2024 |
+
+---
+
+## 👻 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GuruprasadGP22&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=GuruprasadGP22&hide_border=true&background=0B0612&ring=F97316&fire=F97316&currStreakNum=FBBF24&currStreakLabel=F97316&sideNums=E9D5FF&sideLabels=A855F7&dates=7E6A96&stroke=3B1F5C" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuruprasadGP22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruprasadGP22&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuruprasadGP22&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B0612&title_color=F97316&icon_color=A855F7&text_color=E9D5FF&border_color=3B1F5C" alt="GitHub stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruprasadGP22&layout=compact&hide_border=true&bg_color=0B0612&title_color=F97316&icon_color=A855F7&text_color=E9D5FF&border_color=3B1F5C" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuruprasadGP22&theme=tokyo-night&area=true&hide_border=true" alt="Contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuruprasadGP22&bg_color=0B0612&color=E9D5FF&title_color=F97316&line=A855F7&point=F97316&area=true&area_color=7C3AED&hide_border=true" alt="Contribution graph"/>
 </p>
 
 <!-- COMMIT_STATS_START -->
@@ -147,20 +212,16 @@ Mangalore Institute of Technology and Engineering (MITE) &nbsp;|&nbsp; 📅 2020
 
 ---
 
-<h2 align="center">🐍 GitHub Contributions</h2>
+<h2 align="center">🐍 The Snake That Haunts My Contributions</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuruprasadGP22/GuruprasadGP22/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuruprasadGP22/GuruprasadGP22/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/GuruprasadGP22/GuruprasadGP22/output/github-snake.svg" alt="Snake eating my GitHub contribution graph" width="100%"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/GuruprasadGP22/GuruprasadGP22/output/github-snake-halloween.svg" alt="Snake eating my GitHub contribution graph" width="100%"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random dev quote"/>
 </p>
 
-<h3 align="center">🚀 Always Learning • 💻 Always Building • ⭐ Always Improving</h3>
+<h3 align="center">🎃 Always Learning • 🕸️ Always Building • 🦇 Always Improving</h3>
