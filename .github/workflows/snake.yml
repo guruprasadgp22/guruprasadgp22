@@ -19,6 +19,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-halloween.svg?palette=github-dark&color_snake=#F97316&color_dots=#1A0D2B,#4C1D95,#7C3AED,#C2410C,#F97316&color_background=#0B0612
  
       - name: Publish Snake to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
