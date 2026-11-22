@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Guruprasad</h1>
-<h3 align="center">Software Developer · Full Stack Developer · Java Enthusiast</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" width="100%" alt="Guruprasad, Software Developer and Full Stack Developer from Bengaluru. Former Software Developer Intern at Sony India Software Centre, focused on Java, Spring Boot, REST APIs and PostgreSQL.">
+</picture>
 
 <p align="center">
   <a href="https://guruprasad22.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
@@ -141,6 +144,18 @@ Mangalore Institute of Technology and Engineering (MITE) &nbsp;|&nbsp; 📅 2020
 
 > ⚡ Auto-updated every day via GitHub Actions
 <!-- COMMIT_STATS_END -->
+
+---
+
+<h2 align="center">🐍 GitHub Contributions</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuruprasadGP22/GuruprasadGP22/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuruprasadGP22/GuruprasadGP22/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/GuruprasadGP22/GuruprasadGP22/output/github-snake.svg" alt="Snake eating my GitHub contribution graph" width="100%"/>
+  </picture>
+</p>
 
 ---
 
